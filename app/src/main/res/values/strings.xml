@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NahidMapActivity</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="nearby_place_api_key">AIzaSyBuqigknEN1gwg_LLghZ6etAf5PWqlsNCc</string>
+    <string name="nearby_atm_place_api_key">AIzaSyDb_0p5ap5TaNu-5gzYxsOTGxegchAJGyE</string>
+    <string name="nearby_hospital_place_api_key">AIzaSyDidtRrVAghoEo_ZHaeTWtc9Cn9G4o4qGI</string>
+</resources>
